@@ -1,0 +1,113 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WriteItDown
+</name>
+</assembly>
+<members>
+<member name="P:WriteItDown.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WriteItDown.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WriteItDown.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:WriteItDown.RichTextBoxEx.SetSelectionFont(System.String)">
+	<summary>
+ Setzt die Schriftart für den selektierten Text
+ </summary>
+	<param name="face">Name der Schriftart</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.SetSelectionSize(System.Int32)">
+	<summary>
+ Setzt die Schriftgrösse des selektierten Textees
+ </summary>
+	<param name="size">Schriftgrösse</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.SetSelectionBold(System.Boolean)">
+	<summary>
+ Setzt Fettdruck für selektierten Text oder hebt diesen auf
+ </summary>
+	<param name="bold">True = Fettdruck; False = normal</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.SetSelectionItalic(System.Boolean)">
+	<summary>
+ Kurssiv-Schrift für selektierten Text setzen oder aufheben
+ </summary>
+	<param name="italic">True = kursiv; False = nicht kursiv</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.SetSelectionUnderlined(System.Boolean)">
+	<summary>
+ Unterstreicht den selektierten Text oder hebt diese auf
+ </summary>
+	<param name="underlined">True = unterstrichen; 
+ False = nicht unterstrichen</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.StopRefresh">
+	<summary>
+ Pausiert die Bildschirmaktualisierung 
+ (Um die Bildschirmaktualisierung fortzusetzen, 
+ muss ResumeRefresh aufgerufen werden)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.ResumeRefresh">
+	<summary>
+ Aktiviert die Bildschrimaktualisierung wieder 
+ (wenn diese zuvor über StopRefresh pausiert wurde)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.Highlight(System.String,System.Drawing.Color,System.Boolean,System.Boolean,System.Int32)">
+	<summary>
+ Hebt gefundene Zeichenketten oder Wörter mit einer 
+ Hintergrundfarbe hervor (nicht bei langen Texten empfohlen)
+ </summary>
+	<param name="FindWhat">Zu markierender Text oder Wort</param>
+	<param name="BackColor">Hintergrundfarbe die gesetzt werden soll</param>
+	<param name="MatchCase">Gibt an ob Gross-/Kleinschreibung 
+ beachtet werden soll</param>
+	<param name="MatchWholeWord">Wenn True, wird nur nach 
+ ganzen Wörtern gesucht</param>
+	<param name="MaxFind">Begrenzt die Anzahl der zu markierenden 
+ Fundstellen auf die angegebene Anzahl, wenn der Wert nicht 0 ist</param>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.ClearBackColor(System.Boolean)">
+	<summary>
+ Löscht die Hintergundfarbe für den markierten Bereich 
+ oder für das komplette Dokument
+ </summary>
+	<param name="ClearAll">Wenn der Wert True ist, wird die 
+ Hintergrundfarbe für das komplette Dokument gelöscht 
+ (nicht nur Selektion)</param>
+	<remarks></remarks>
+</member><member name="M:WriteItDown.RichTextBoxEx.SelectText(System.String,System.Boolean,System.Boolean,System.Int32,System.Boolean)">
+	<summary>
+ Markiert den gefundenen Text (Setzt den Fokus auf die Fundstelle) 
+ </summary>
+	<param name="FindWhat">Zeichenkette oder Wort das 
+ gesucht werden soll</param>
+	<param name="MatchCase">Gibt an ob Gross-/Kleinschreibung 
+ berücksichtigt werden soll (False=Ignorieren)</param>
+	<param name="MatchWholeWord">Wenn der Wert True ist, wird nur 
+ nach genzen Wörtern gesucht</param>
+	<param name="StartFrom">Gibt die Position an ab der gesucht 
+ werden soll. Wenn nichts übergeben wird, wird ab der aktuellen 
+ Selektion gesucht</param>
+	<param name="bFindBackwords">Wenn der Wert True ist, wird von 
+ unten nach oben anstatt von Oben nach Unten gesucht</param>
+	<remarks>Wenn das Ende des Dokuments erreicht ist, wird wieder 
+ vom Anfang gesucht</remarks>
+</member>
+</members>
+</doc>

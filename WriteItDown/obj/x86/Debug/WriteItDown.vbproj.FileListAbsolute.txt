@@ -1,0 +1,17 @@
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\bin\Debug\WriteItDown.exe.config
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\bin\Debug\WriteItDown.exe
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\bin\Debug\WriteItDown.pdb
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\bin\Debug\WriteItDown.xml
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Form1.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Resources.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.vbproj.GenerateResource.Cache
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.exe
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.xml
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.pdb
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Form2.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Form3.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Form5.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Form6.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Dialog1.resources
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.vbprojResolveAssemblyReference.cache
+C:\Users\Lukas\Documents\Visual Studio 2010\Projects\WriteItDown\WriteItDown\obj\x86\Debug\WriteItDown.Form4.resources
